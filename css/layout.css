@@ -40,7 +40,7 @@
 
 [class*="col-"] {
   float: left;
-  margin-left: 0.55em;
+  margin-left: 0.65em;
 }
 
 [class*="col-"]:first-child {
