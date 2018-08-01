@@ -50,7 +50,7 @@
 .col-4 { width: 32%; }
 .col-8 { width: 66%; }
 
-.border-right {
+/*.border-right {
   float: left;
   margin-left: 2%;
   width: 32%;
@@ -59,4 +59,4 @@
 .border-right:first-child {
   margin-left: 0;
   width: 32%;
-}
+}*/
