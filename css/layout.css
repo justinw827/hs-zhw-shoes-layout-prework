@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-.row {
+.temp {
     clear: both;
     margin-bottom: 2%;
   }
 
-.row:after {
+.temp:after {
   content: ".";
   display: block;
   clear: both;
