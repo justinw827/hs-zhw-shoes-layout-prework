@@ -44,7 +44,7 @@
 }
 
 [class*="col-"]:first-child {
-  /*margin-left: 0;*/
+  margin-left: 0;
 }
 
 .col-4 { width: 32%; }
