@@ -41,6 +41,7 @@
 [class*="col-"] {
   float: left;
   margin-left: 1.05em;
+  margin-top: 1em;
 }
 
 [class*="col-"]:first-child {
