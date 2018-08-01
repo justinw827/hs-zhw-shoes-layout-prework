@@ -38,9 +38,9 @@
   line-height: 0;
 }
 
-.milk_test {
+/*.milk_test {
   padding-top: 1em;
-}
+}*/
 
 [class*="col-"] {
   float: left;
